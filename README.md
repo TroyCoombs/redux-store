@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/TroyCoombs/redux-store/badge.svg?branch=master)](https://coveralls.io/github/TroyCoombs/redux-store?branch=master)
+
 <h1 align="center">Simple Redux Store</h1>
 <h4 align="center">Vanilla TypeScript example of a Redux Store</h4>
 
